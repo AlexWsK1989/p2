@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Hello and welcome!");
 
 
-        // System.out.println("i = " + 1);
+        
 
         var dog = 8.0;
         System.out.println(dog);
@@ -58,7 +58,7 @@ public class Main {
         System.out.println(Totaltime);
         var Everyemployee = 8;
         System.out.println(Everyemployee + "часов");
-        var Totalemployees = 64;
+        var Totalemployees = 80;
         System.out.println(Totalemployees + "всего работников в компании");
         Totalemployees = 80 + 94;
         System.out.println(Totalemployees + "всего работников в компании");
